@@ -2,8 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Ship : MonoBehaviour {
-
+public class Ship : MonoBehaviour
+{
     float movement = 0.0f;
     float moveSpeed = 400.0f;
 	
@@ -17,5 +17,4 @@ public class Ship : MonoBehaviour {
     {
         transform.Translate(movement, 0, 0);
     }
-
 }
