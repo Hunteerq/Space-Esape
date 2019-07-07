@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="A:\Projects\Unity\Space-Esape" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="game" t="Include">
+            <e p="Background" t="Include">
+              <e p="MoveBackground.cs" t="Include" />
+            </e>
+            <e p="Columns" t="Include">
+              <e p="MoveColumn.cs" t="Include" />
+              <e p="SpawnColumns.cs" t="Include" />
+            </e>
+            <e p="GameScore" t="Include">
+              <e p="ScoreHandler.cs" t="Include" />
+            </e>
+            <e p="Ship" t="Include">
+              <e p="Ship.cs" t="Include" />
+            </e>
+          </e>
+          <e p="menu" t="Include">
+            <e p="ChangeSceneHandler.cs" t="Include" />
+            <e p="QuitGame.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Space Escape.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\Hunteerq\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Hunteerq\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_Space Escape.-484345322.00" t="ExcludeRecursive" />
+  </component>
+</project>

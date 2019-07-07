@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f8e32127-19be-4338-8bf1-a20bb289dfb5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/2D Space Backgrounds/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/2D Space Backgrounds/1.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/2D Space Backgrounds/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/2D Space Backgrounds/10.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/2D Space Backgrounds/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/2D Space Backgrounds/2.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/2D Space Backgrounds/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/2D Space Backgrounds/3.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/2D Space Backgrounds/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/2D Space Backgrounds/4.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/2D Space Backgrounds/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/2D Space Backgrounds/5.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/2D Space Backgrounds/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/2D Space Backgrounds/6.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/2D Space Backgrounds/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/2D Space Backgrounds/7.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/2D Space Backgrounds/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/2D Space Backgrounds/8.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/2D Space Backgrounds/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/2D Space Backgrounds/9.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/2D Space Backgrounds/Materials/9.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Font/joystix monospace.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Font/joystix monospace.ttf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Font/prstart.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Font/prstart.ttf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Font/prstartk.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Font/prstartk.ttf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/Demo.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/Demo.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_0_empty_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_10_!_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_10_arrow_rounded_down_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_10_cursor_!_al_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_10_flag_destroyed_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_10_flag_destroyed_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_10_hammer_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_10_hammer_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_10_hand_fire_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_10_hand_fire_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_10_previoust_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_10_previoust_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_10_rain_cloud_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_10_rain_cloud_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_10_silhouette_-_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_10_silhouette_-_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_11_arrow_rounded_left_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_11_arrow_rounded_left_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_11_cursor_star_al_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_11_cursor_star_al_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_11_home_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_11_home_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_11_no_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_11_no_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_11_pickaxe_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_11_pickaxe_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_11_silhouette_heart_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_11_silhouette_heart_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_11_star_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_11_star_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_12_arrow_rounded_right_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_12_arrow_rounded_right_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_12_arrow_up_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_12_arrow_up_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_12_cursor_arrow_up_al_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_12_cursor_arrow_up_al_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_12_ok_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_12_ok_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_12_spit_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_12_spit_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_12_tent_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_12_tent_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_13_arrow_down_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_13_arrow_down_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_13_axe_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_13_axe_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_13_campfire_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_13_campfire_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_13_cursor_arrow_down_al_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_13_cursor_arrow_down_al_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_13_points_ver_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_13_points_ver_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_14_key_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_14_key_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_14_points_hor_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_14_points_hor_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_14_wrench_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_14_wrench_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_15_beer_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_15_beer_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_15_list_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_15_list_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_16_crown_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_16_crown_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_16_message_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_16_message_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_17_medal_star_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_17_medal_star_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_17_message_points_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_17_message_points_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_18_medal_first_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_18_medal_first_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_18_next2_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_18_next2_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_19_medal_second_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_19_medal_second_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_19_previoust2_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_19_previoust2_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_1_anvil_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_1_anvil_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_1_arrow_empty_up_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_1_arrow_empty_up_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_1_bottle_empty_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_1_bottle_empty_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_1_column_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_1_column_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_1_cursor_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_1_cursor_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_1_cursor_al.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_1_cursor_al.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_1_eye_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_1_eye_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_1_fire_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_1_fire_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_1_head_samurai_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_1_head_samurai_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_1_letter_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_1_letter_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_1_magnifier_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_1_magnifier_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_1_magnifier_al_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_1_magnifier_al_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_1_moon_full_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_1_moon_full_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_1_scroll_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_1_scroll_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_1_shield_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_1_shield_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_1_sword90_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_1_sword90_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_20_medal_third_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_20_medal_third_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_20_stop_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_20_stop_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_21_doorlock_close_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_21_doorlock_close_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_22_doorlock_open_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_22_doorlock_open_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_23_gear_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_23_gear_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_24_diamond_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_24_diamond_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_25_compas_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_25_compas_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_26_clock_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_26_clock_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_27_grave_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_27_grave_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_28_bread_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_28_bread_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_2_+_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_2_+_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_2_arrow_empty_down_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_2_arrow_empty_down_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_2_bottle_half_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_2_bottle_half_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_2_coin_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_2_coin_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_2_column_cross_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_2_column_cross_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_2_cursor_+_al_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_2_cursor_+_al_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_2_eye_light_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_2_eye_light_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_2_head_gladiator_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_2_head_gladiator_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_2_letter_open_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_2_letter_open_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_2_lighthing_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_2_lighthing_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_2_magnifier_+_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_2_magnifier_+_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_2_magnifier_+_al_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_2_magnifier_+_al_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_2_moon_empty_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_2_moon_empty_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_2_scroll_open_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_2_scroll_open_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_2_shield_eye_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_2_shield_eye_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_2_sword45_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_2_sword45_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_3_-_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_3_-_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_3_arrow_empty_left_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_3_arrow_empty_left_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_3_bottle_full_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_3_bottle_full_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_3_coins_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_3_coins_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_3_column_double_cross_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_3_column_double_cross_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_3_cursor_-_al_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_3_cursor_-_al_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_3_eye_bored_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_3_eye_bored_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_3_head_wiking_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_3_head_wiking_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_3_letter_eye_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_3_letter_eye_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_3_magic_fire_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_3_magic_fire_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_3_magnifier_-_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_3_magnifier_-_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_3_magnifier_-_al_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_3_magnifier_-_al_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_3_scroll_open_cut_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_3_scroll_open_cut_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_3_shield_magic_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_3_shield_magic_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_3_sun_full_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_3_sun_full_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_3_sword_cut_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_3_sword_cut_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_4_=_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_4_=_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_4_arrow_empty_right_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_4_arrow_empty_right_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_4_bottle_small_empty_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_4_bottle_small_empty_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_4_coin_bag1_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_4_coin_bag1_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_4_column_sound1_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_4_column_sound1_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_4_cursor_=_al_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_4_cursor_=_al_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_4_eye_bleed_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_4_eye_bleed_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_4_frost_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_4_frost_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_4_head_knignt_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_4_head_knignt_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_4_letter_+_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_4_letter_+_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_4_magnifier_eye_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_4_magnifier_eye_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_4_magnifier_eye_al_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_4_magnifier_eye_al_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_4_scroll_+_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_4_scroll_+_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_4_shield_bezel_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_4_shield_bezel_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_4_sun_half_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_4_sun_half_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_4_sword_saw_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_4_sword_saw_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_5_arrow_up_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_5_arrow_up_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_5_bottle_small_half_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_5_bottle_small_half_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_5_coin_bag2_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_5_coin_bag2_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_5_column_sound2_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_5_column_sound2_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_5_cursor_x_al_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_5_cursor_x_al_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_5_drop_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_5_drop_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_5_eye_cross_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_5_eye_cross_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_5_head_rogure_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_5_head_rogure_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_5_letter_-_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_5_letter_-_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_5_magnifier_eye_crossed_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_5_magnifier_eye_crossed_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_5_magnifier_eye_crossed_al_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_5_magnifier_eye_crossed_al_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_5_scroll_-_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_5_scroll_-_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_5_sun_empty_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_5_sun_empty_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_5_sword_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_5_sword_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_5_x_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_5_x_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_6_arrow_down_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_6_arrow_down_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_6_barrel_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_6_barrel_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_6_bottle_small_full_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_6_bottle_small_full_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_6_cloud_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_6_cloud_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_6_continue_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_6_continue_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_6_cursor_devide_al_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_6_cursor_devide_al_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_6_devide_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_6_devide_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_6_head_king_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_6_head_king_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_6_head_scull_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_6_head_scull_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_6_mace_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_6_mace_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_6_scroll_eye_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_6_scroll_eye_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_6_stone_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_6_stone_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_7_arrow_left_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_7_arrow_left_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_7_book_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_7_book_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_7_bottle_heal_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_7_bottle_heal_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_7_cloud&amp;sun_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_7_cloud&amp;sun_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_7_continue_mirror_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_7_continue_mirror_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_7_cursor_question_al_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_7_cursor_question_al_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_7_head_scull_enemy_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_7_head_scull_enemy_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_7_plant1_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_7_plant1_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_7_question_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_7_question_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_7_waraxe_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_7_waraxe_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_8_arrow_right_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_8_arrow_right_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_8_bottle_magic_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_8_bottle_magic_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_8_cloud_up_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_8_cloud_up_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_8_cursor_heart_al_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_8_cursor_heart_al_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_8_heart_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_8_heart_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_8_pause_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_8_pause_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_8_plant2_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_8_plant2_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_8_silhouette_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_8_silhouette_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_8_staff_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_8_staff_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_8_tab_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_8_tab_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_9_arrow_rounded_up_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_9_arrow_rounded_up_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_9_bottle_eye_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_9_bottle_eye_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_9_cloud_down_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_9_cloud_down_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_9_cursor_eye_al_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_9_cursor_eye_al_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_9_eye_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_9_eye_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_9_flag_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_9_flag_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_9_kunai_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_9_kunai_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_9_next_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_9_next_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_9_plant3_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_9_plant3_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_9_silhouette_+_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_9_silhouette_+_.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/Update.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/Update/bonus_01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/Update/bonus_01.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/Update/bonus_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/Update/bonus_02.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/Update/bonus_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/Update/bonus_03.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/Update/bonus_04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/Update/bonus_04.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/Update/bonus_05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/Update/bonus_05.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/Update/bonus_06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/Update/bonus_06.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/Update/bonus_07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/Icons/Update/bonus_07.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/prefab/Column_collider.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/prefab/Column_collider.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/prefab/Ship2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Objects/prefab/Ship2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Menu/EndGame.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Menu/EndGame.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Menu/Settings.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Menu/Settings.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/game/Background.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/game/Background/MoveBackground.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/game/Background/MoveBackground.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/game/Background/Square.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/game/Background/Square.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/game/Columns.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/game/Columns/MoveColumn.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/game/Columns/MoveColumn.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/game/Columns/SpawnColumns.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/game/Columns/SpawnColumns.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/game/GameScore.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/game/GameScore/ScoreHandler.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/game/GameScore/ScoreHandler.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/game/Ship.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/game/Ship/Ship.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/VFXManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/XRSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Font/Hana.ttf.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Font/Hana.ttf.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/Starfield Skybox.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/Starfield Skybox/Demo.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/2D Space Backgrounds.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/Starfield Skybox/Demo/Textures.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/2D Space Backgrounds/Materials.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/Starfield Skybox/Demo/Textures/Back_Tex.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/Starfield Skybox/Demo/Textures/Back_Tex.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_10_cursor_!_al_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/Starfield Skybox/Demo/Textures/Down_Tex.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/Starfield Skybox/Demo/Textures/Down_Tex.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/Starfield Skybox/Demo/Textures/Front_Tex.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/Starfield Skybox/Demo/Textures/Front_Tex.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_10_!_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/Starfield Skybox/Demo/Textures/Left_Tex.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/Starfield Skybox/Demo/Textures/Left_Tex.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_10_arrow_rounded_down_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/Starfield Skybox/Demo/Textures/Right_Tex.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/Starfield Skybox/Demo/Textures/Right_Tex.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/Starfield Skybox/Demo/Textures/Up_Tex.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/Starfield Skybox/Demo/Textures/Up_Tex.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/Starfield Skybox/Skybox.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/Starfield Skybox/Skybox.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/2D Space Backgrounds/Materials/9.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/background.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/background/game_background_3.1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Objects/background/game_background_3.1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Objects/Icons/T_0_empty_.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Game/Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Game/Game.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Menu/Menu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Menu/Menu.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/game/Ship.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/game/Ship.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/game/Ship/Ship.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/game/Ship/Ship.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/game/Ship/Ship.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/game/Ship/Ship.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="240" />
+    <option name="y" value="135" />
+    <option name="width" value="1440" />
+    <option name="height" value="810" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8e32127-19be-4338-8bf1-a20bb289dfb5" name="Default Changelist" comment="" />
+      <created>1562508566890</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562508566890</updated>
+      <workItem from="1562508572227" duration="83000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="83000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24986681" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Performance Profiler" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/game/Ship/Ship.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
